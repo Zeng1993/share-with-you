@@ -1,1 +1,0 @@
-Tetris is a popular global TV game and PSP game, the basic rule is to move, rotate and put the game automatically output various squares, arranged in 17 into a complete one or more lines and eliminate scores.My warehouse is a tetris game, using shell language, firstly introduces the tetris what are the squares, in the movement¡£
